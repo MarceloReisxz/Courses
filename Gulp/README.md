@@ -4,4 +4,4 @@
 <p>Single Page Application
 <p>Usando Gulp, Sass, Html, Css e JavaScript
 
-![alt text]([https://github.com/MarceloReisxz/Cursos/blob/main/JavaScript/Flappy%20Bird/imgs/flappy.png](https://github.com/MarceloReisxz/Cursos/blob/main/Gulp/imagens/img1.png)
+![alt text](https://github.com/MarceloReisxz/Cursos/blob/main/Gulp/imagens/img1.png)
