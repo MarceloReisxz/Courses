@@ -1,0 +1,12 @@
+.header {
+    background: #00b09b; 
+    background: -webkit-linear-gradient(to right, #96c93d, #00b09b);  
+    background: linear-gradient(to right, #96c93d, #00b09b); 
+
+
+    font-size: 3em;
+    color: white;
+    font-family: 'Roboto';
+    text-align: center;
+    box-shadow: 0 10px 10px -5px rgba(0, 0, 0, 0.178);
+}
