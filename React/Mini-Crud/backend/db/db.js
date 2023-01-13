@@ -1,4 +1,4 @@
 const Sequelize = require('sequelize');
-const sequelize = new Sequelize('postgres://postgres:ti@cc@localhost:5432/crud', { dialect: 'postgres' });
+const sequelize = new Sequelize('DEFINIÇÃO BANCO DE DADOS', { dialect: 'postgres' });
 
 module.exports = sequelize;
