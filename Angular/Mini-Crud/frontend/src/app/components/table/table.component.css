@@ -1,0 +1,22 @@
+.trash {
+    color: red;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+table {
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+
+td {
+    padding: 25px;
+}
+
+th {
+    padding: 25px;
+}
