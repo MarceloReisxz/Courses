@@ -1,4 +1,4 @@
 const Sequelize = require('sequelize');
-const sequelize = new Sequelize('postgres://postgres:ti@cc@localhost:5432/angular', { dialect: 'postgres' });
+const sequelize = new Sequelize('INFORME SEU BANCO DE DADOS', { dialect: 'postgres' });
 
 module.exports = sequelize;
