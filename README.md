@@ -1,2 +1,2 @@
-# Cursos
-<p> Alguns projetos realizados de maneira autônoma e outros dentro de cursos de aprendizado.
+# COURSES
+<p> Some projects carried out autonomously and others within learning courses.
