@@ -1,2 +1,2 @@
 # COURSES
-<p> Some projects carried out autonomously and others within learning courses.
+<p> Some projects developed autonomously and others within learning courses.
